@@ -1,5 +1,7 @@
 # Projet Sprite Generator
 
+<img width="908" alt="image" src="https://github.com/twnguydev/css-sprite-generator/assets/154362306/1ca66ee3-3164-4456-b3fa-527294a23440">
+
 ## Description
 
 Le projet consiste à développer un programme en ligne de commande qui concatène plusieurs images au format PNG présentes dans un dossier en un seul sprite. En outre, l'outil doit également générer un fichier CSS représentant cette concaténation. L'utilisation de cet outil se rapprochera des commandes UNIX, préférant les options courtes.
